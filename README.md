@@ -1,12 +1,12 @@
 ## Opa, eu sou o Danilo de Souza Miguel
 
 - 🔭 Trabalhando atualmente com desenvolvimento mobile, espeficamente para Android
-- 🌱 Estudando Clean Architecture, cloud computing e Reinforcement learning
+- 🌱 Estudando Clean Architecture, cloud computing e Reinforcement learning 
 
-<div>
+<div align="center">
   <a href="https://github.com/Danilo-Miguel">
-  <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Danilo-Miguel&show_icons=true&theme=compact " />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Miguel&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danilo-Migueli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Miguel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
