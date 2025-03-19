@@ -1,7 +1,7 @@
-## Opa, eu sou o Danilo de Souza Miguel, Professor, Instrutor e Desenvolvedor de Software.
+## Hello, my name is Danilo de Souza Miguel. I am a Software Engineer specializing in backend and mobile development (Java, Kotlin, Python, React Native, Flask, Docker).
+👨‍💻 I work as a University Professor at Universidade São Judas Tadeu and FIAP, teaching Programming, Software Engineering, Computer Architecture, and Cloud Computing.
+📖 I am currently a Ph.D. candidate in Computer Engineering, hold a Master's degree in Computer Engineering from the University of São Paulo (USP), and a Bachelor's degree in Computer Science from UNIP.
 
-- 👨‍💻 Trabalhando atualmente com Análise e desenvolvimento mobile, espeficamente para Android. Lecionando na Universidade São Judas Tadeu e na Samsung Ocean
-- 📖 Estudando Clean Architecture, cloud computing e Reinforcement learning 
 
 <div align="center">
   <a href="https://github.com/Danilo-Miguel">
