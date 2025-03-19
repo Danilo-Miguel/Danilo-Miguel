@@ -1,4 +1,8 @@
-## Hello, my name is Danilo de Souza Miguel. I am a Software Engineer specializing in backend and mobile development (Java, Kotlin, Python, React Native, Flask, Docker). I work as a University Professor at Universidade São Judas Tadeu and FIAP, teaching Programming, Software Engineering, Computer Architecture, and Cloud Computing. I am currently a Ph.D. candidate in Computer Engineering, hold a Master's degree in Computer Engineering from the University of São Paulo (USP), and a Bachelor's degree in Computer Science from UNIP.
+ # 👩🏻‍💻 Danilo de Souza Miguel.
+
+ **`Professor and Software Engineering`**
+
+ Hello, my name is Danilo de Souza Miguel. I am a Software Engineer specializing in backend and mobile development (Java, Kotlin, Python, React Native, Flask, Docker). I work as a University Professor at Universidade São Judas Tadeu and FIAP, teaching Programming, Software Engineering, Computer Architecture, and Cloud Computing. I am currently a Ph.D. candidate in Computer Engineering, hold a Master's degree in Computer Engineering from the University of São Paulo (USP), and a Bachelor's degree in Computer Science from UNIP.
 
 
 <div align="center">
