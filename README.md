@@ -7,8 +7,6 @@
 
 <p align="left">Stats</p>
 
-## 🌐 Where to find me
-
 <p align="left">
   <a href="https://github.com/Danilo-Miguel">
     <img src="https://img.shields.io/badge/GitHub-Danilo-Miguel-181717?style=for-the-badge&logo=github" />
@@ -47,7 +45,3 @@
 
 ---
 
-
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
